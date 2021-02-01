@@ -7,11 +7,11 @@ Um teste sempre segue um estrutura padrão, que tem três partes:
  - A verificação do resultado (Assert ou Then)
 
 
-Documentação para o **"Arrange Act Assert"**
+Documentação para o **"Arrange Act Assert":**
 http://wiki.c2.com/?ArrangeActAssert
 
 
-Documentaçao para o **"Given When Then"**
+Documentaçao para o **"Given When Then":**
 https://martinfowler.com/bliki/GivenWhenThen.html
 
 
